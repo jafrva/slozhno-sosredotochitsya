@@ -274,9 +274,6 @@ img {
     background-position: center bottom;
   }
 
-  .header__theme-menu {
-  }
-
   .header__theme-menu-list {
     grid-auto-flow: row;
     row-gap: 10px;
